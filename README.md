@@ -1,3 +1,10 @@
+This is a React-based web application that is showing a list of trending movies. 
+In this app, users can see trending movies and add or remove them from their favorites.
+Local Storage is used in this application for storing the data of favorite movies.
+In this application, we can filter favorite movies based on the genre.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
